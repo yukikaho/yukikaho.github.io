@@ -5,9 +5,9 @@
   <subtitle>这是一个博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-07-05T07:29:29.195Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://yukikaho.github.io/"/>
+  <updated>2019-07-06T03:17:56.921Z</updated>
+  <id>http://yukikaho.github.io/</id>
   
   <author>
     <name>余华龙</name>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>像诗像雨又像风</title>
-    <link href="http://yoursite.com/other/blog/"/>
-    <id>http://yoursite.com/other/blog/</id>
+    <title>像风像雨又像诗</title>
+    <link href="http://yukikaho.github.io/other/blog/"/>
+    <id>http://yukikaho.github.io/other/blog/</id>
     <published>2019-07-05T07:26:40.000Z</published>
-    <updated>2019-07-05T07:29:29.195Z</updated>
+    <updated>2019-07-06T03:17:56.921Z</updated>
     
     <content type="html"><![CDATA[<pre><code>这是一个学习的过程，也是一个寻找自己的过程。</code></pre>]]></content>
     
@@ -34,12 +34,10 @@
     
     </summary>
     
-      <category term="other" scheme="http://yoursite.com/categories/other/"/>
+      <category term="other" scheme="http://yukikaho.github.io/categories/other/"/>
     
     
-      <category term="post" scheme="http://yoursite.com/tags/post/"/>
-    
-      <category term="第一次" scheme="http://yoursite.com/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+      <category term="YUKIKAHO" scheme="http://yukikaho.github.io/tags/YUKIKAHO/"/>
     
   </entry>
   
